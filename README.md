@@ -119,7 +119,7 @@ Data Cleaning & Transformation
 DAX (for calculated measures)
 
 ## 📷 Dashboard
-https://github.com/tshimimaleka/Enquiry-Performance-Dashboard-Power-BI-/blob/1154fa4d933961ae1f2872d5092a455fdd984163/Enquiry%20Dashboard.png
+!(https://i.postimg.cc/W3Q3CDF3/Enquiry-Dashboard.png)
 
 ## 📊 Live Dashboard
 
@@ -128,9 +128,6 @@ A fully interactive **Power BI Enquiry Conversion Performance Dashboard** has be
 https://app.powerbi.com/groups/me/reports/e6b02c04-5b7a-4a31-a50f-4003dd073259/5d729a73eb34e8d8cc7b?experience=power-bi
 
 *(Requires Power BI access)*
-
-
-
 
 ## 🎯 Skills Demonstrated
 Data Cleaning
