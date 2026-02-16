@@ -132,10 +132,15 @@ https://app.powerbi.com/groups/me/reports/e6b02c04-5b7a-4a31-a50f-4003dd073259/5
 
 ## 🎯 Skills Demonstrated
 Data Cleaning
+
 Data Modeling
+
 KPI Creation
+
 Conversion Rate Calculation
+
 Data Visualization
+
 Business Insight Communication
 
 ## 🚀 Author
