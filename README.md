@@ -135,7 +135,8 @@ Data Cleaning & Transformation
 
 DAX (for calculated measures)
 
-## 📷 Dashboard Preview
+## 📷 Dashboard
+https://github.com/tshimimaleka/Enquiry-Performance-Dashboard-Power-BI-/blob/1154fa4d933961ae1f2872d5092a455fdd984163/Enquiry%20Dashboard.png
 
 
 
