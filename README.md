@@ -97,16 +97,16 @@ Unconverted: 205
 Conversion Rate: 48.60%
 
 ### 📊 Dashboard Insights
-🔹 1. Conversion Performance
+🔹 1. Conversion Performance: 
 The dashboard shows that 48.60% of enquiries were successfully converted during the week. This indicates moderate sales performance with room for improvement.
 
-🔹 2. Consultant Performance
+🔹 2. Consultant Performance: 
 The “Enquiries Per Consultant” visual highlights top-performing consultants based on the number of enquiries handled.
 
-🔹 3. Enquiry Trend Analysis
+🔹 3. Enquiry Trend Analysis: 
 The time-series analysis shows a peak in enquiries on 8 January, followed by a decline towards 10 January.
 
-🔹 4. Destination Popularity
+🔹 4. Destination Popularity: 
 Mauritius and Zanzibar received the highest number of enquiries, indicating strong customer interest in island destinations.
 
 ## 🛠 Tools Used
