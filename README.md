@@ -1,32 +1,23 @@
-## End-to-End Website & Enquiry Data Analysis
+# End-to-End Website & Enquiry Data Analysis
 
-# Task 1 – Website Traffic Analysis
+## Task 1 – Website Traffic Analysis
 
 •	From 5-11 Jan to 12-18 Jan, the total sessions dropped from 40,791 to 36,194 a 
 decrease of 4,597 sessions, which is about (11%).
-
 •	 From 5-11 Jan to 12-18 Jan, engaged sessions dropped from 38,159 to 33,518.
-
 •	The Engagement rate went down slightly from 93.54% to 92.61%.
-
 •	The Average engagement rate time per session stayed the same at 1m 38s.
-
 •	Events per session increased slightly from 7.37 to 7.45.
 
-# Traffic Channels
+### Traffic Channels
 •	Organic Search dropped from 19,784 to 17,382 sessions.
-
 •	Paid Search dropped from 3,046 to 2,519 sessions.
-
 •	Paid Social stayed almost the same from 4,390 to 4,361 sessions
-
 •	Email traffic increased slightly from 3,212 to 3,261 sessions.
-
 •	Direct traffic decreased from 3,717 to 3,168 sessions.
-
 •	Referral traffic increased slightly from 161 to 172 sessions.
 
-# Conclusion
+### Conclusion
 Although fewer people visited the website in week 2, the users stayed active and engaged. The traffic drop came mainly from Organic Search and paid Search, while email campaigns performed well.
 
 
