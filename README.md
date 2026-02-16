@@ -119,7 +119,7 @@ Data Cleaning & Transformation
 DAX (for calculated measures)
 
 ## 📷 Dashboard
-!(https://i.postimg.cc/W3Q3CDF3/Enquiry-Dashboard.png)
+![](https://i.postimg.cc/W3Q3CDF3/Enquiry-Dashboard.png)
 
 ## 📊 Live Dashboard
 
