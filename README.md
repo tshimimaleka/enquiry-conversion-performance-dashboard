@@ -58,7 +58,7 @@ Although fewer people visited the website in week 2, the users stayed active and
 The website activity decreased, but engagement improved slightly. Some top pages dropped in view, while promotional pages like BIG TRAVEL SALE performed better. New pages like Mauritius showed growing interest.
 
 ## Task 3 – Data Cleaning & Preparation
-1. ####How many enquiries were converted and how many have not been converted?
+#1. How many enquiries were converted and how many have not been converted?
 ![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)
 3. Which packages were the most popular and obtained the most enquiries?
 ![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)  
