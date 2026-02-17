@@ -78,12 +78,15 @@ Pentravel Online received the most website enquiries (136), but its conversion r
 I would like to share how I cleaned and prepared the enquiry dataset using Excel. First, I reviewed the dataset to understand the structure and columns. I removed duplicate records to ensure each enquiry was unique. I then checked for missing or blank values and corrected them where necessary. The Package ID column was left blank because it was not applicable, or no data was provided for that field. I also standardized text fields to ensure consistency (for example, correcting different spellings and formats), and verified that dates and numeric columns were properly formatted. After completing the cleaning process, I created a Pivot Table to summarize the data and analyze key trends, which helped generate clear insights from the dataset.
 
 ## 📌 Project Overview
-
 **This project presents an Enquiry Performance Dashboard built in Power BI using enquiry data from 5–11 January 2026.**
 **The goal of this analysis was to evaluate:**
+
 Conversion performance
+
 Consultant productivity
+
 Destination popularity
+
 Enquiry trends over time
 
 ### 📈 Key Metrics
