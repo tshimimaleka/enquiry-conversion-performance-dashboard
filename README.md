@@ -28,11 +28,6 @@ decrease of 4,597 sessions, which is about (11%).
 ### Conclusion
 Although fewer people visited the website in week 2, the users stayed active and engaged. The traffic drop came mainly from Organic Search and paid Search, while email campaigns performed well.
 
-
-
-
-
-
 ## Task 2 – Website Highlights
 •	From 5-11 Jan to 12-18 Jan, the total page views dropped from 167,521 to 150,125.
 
@@ -62,23 +57,19 @@ Although fewer people visited the website in week 2, the users stayed active and
 ### Conclusion
 The website activity decreased, but engagement improved slightly. Some top pages dropped in view, while promotional pages like BIG TRAVEL SALE performed better. New pages like Mauritius showed growing interest.
 
-
-
-
-
-
 ## Task 3 – Data Cleaning & Preparation
+1. How many enquiries were converted and how many have not been converted?
+![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)
+3. Which packages were the most popular and obtained the most enquiries?
+![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)  
+5. Which destination was the most popular this week for website enquiries?
+![](https://i.postimg.cc/ZKc9KxCD/destination.jpg) 
+7. Which 5 Pentravel Branches received the most web enquiries to work on and what is
+their conversion rates of the enquiries they received?
+![](https://i.postimg.cc/Sx1JcQLJ/pentravel.jpg) 
+
 ### Conclusion
 I would like to share how I cleaned and prepared the enquiry dataset using Excel. First, I reviewed the dataset to understand the structure and columns. I removed duplicate records to ensure each enquiry was unique. I then checked for missing or blank values and corrected them where necessary. The Package ID column was left blank because it was not applicable, or no data was provided for that field. I also standardized text fields to ensure consistency (for example, correcting different spellings and formats), and verified that dates and numeric columns were properly formatted. After completing the cleaning process, I created a Pivot Table to summarize the data and analyze key trends, which helped generate clear insights from the dataset.
-
-
-
-
-
-
-
-
-
 
 ## 📌 Project Overview
 
