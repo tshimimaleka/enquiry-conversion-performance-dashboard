@@ -62,15 +62,15 @@ The website activity decreased, but engagement improved slightly. Some top pages
 ![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)
 From 5–11 January 2026, there were 225 converted enquiries and 238 not converted enquiries. The not converted enquiries include Assigned and Closed – Clean up. This means more enquiries were not converted than converted during this week.
 
-**3. Which packages were the most popular and obtained the most enquiries?**
-![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)
+**2. Which packages were the most popular and obtained the most enquiries?**
+![](https://i.postimg.cc/sxPMWpKB/package-id.jpg)
 The highest number of enquiries falls under the blank package category, which indicates that many enquiries were submitted without a specific package being selected. This may mean customers were making general travel enquiries rather than enquiring about a specific package. Excluding the blank entries, Package 790 was the most popular package, receiving 22 enquiries, making it the leading selected package for the week.
 
-**5. Which destination was the most popular this week for website enquiries?**
+**3. Which destination was the most popular this week for website enquiries?**
 ![](https://i.postimg.cc/ZKc9KxCD/destination.jpg)
 The most popular destination for website enquiries was Mauritius with 87enquiries, followed closely by Zanzibar with 84 enquiries. This shows that many customers were interested in these destinations during the week.
 
-**7. Which 5 Pentravel Branches received the most web enquiries to work on and what is their conversion rates of the enquiries they received?**
+**4. Which 5 Pentravel Branches received the most web enquiries to work on and what is their conversion rates of the enquiries they received?**
 ![](https://i.postimg.cc/Sx1JcQLJ/pentravel.jpg)
 Pentravel Online received the most website enquiries (136), but its conversion rate was 36%. Pentravel Cresta had the highest conversion rate at 70%. This shows that getting more enquiries does not always mean better conversion results
 
