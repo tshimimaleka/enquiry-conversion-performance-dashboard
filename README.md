@@ -58,15 +58,22 @@ Although fewer people visited the website in week 2, the users stayed active and
 The website activity decreased, but engagement improved slightly. Some top pages dropped in view, while promotional pages like BIG TRAVEL SALE performed better. New pages like Mauritius showed growing interest.
 
 ## Task 3 – Data Cleaning & Preparation
-#1. How many enquiries were converted and how many have not been converted?
+1. How many enquiries were converted and how many have not been converted?
 ![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)
+From 5–11 January 2026, there were 225 converted enquiries and 238 not converted enquiries. The not converted enquiries include Assigned and Closed – Clean up. This means more enquiries were not converted than converted during this week.
+
 3. Which packages were the most popular and obtained the most enquiries?
-![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)  
+![](https://i.postimg.cc/HLK81Wjv/count-enquiry-status.jpg)
+The highest number of enquiries falls under the blank package category, which indicates that many enquiries were submitted without a specific package being selected. This may mean customers were making general travel enquiries rather than enquiring about a specific package. Excluding the blank entries, Package 790 was the most popular package, receiving 22 enquiries, making it the leading selected package for the week.
+
 5. Which destination was the most popular this week for website enquiries?
-![](https://i.postimg.cc/ZKc9KxCD/destination.jpg) 
+![](https://i.postimg.cc/ZKc9KxCD/destination.jpg)
+The most popular destination for website enquiries was Mauritius with 87enquiries, followed closely by Zanzibar with 84 enquiries. This shows that many customers were interested in these destinations during the week.
+
 7. Which 5 Pentravel Branches received the most web enquiries to work on and what is
 their conversion rates of the enquiries they received?
-![](https://i.postimg.cc/Sx1JcQLJ/pentravel.jpg) 
+![](https://i.postimg.cc/Sx1JcQLJ/pentravel.jpg)
+Pentravel Online received the most website enquiries (136), but its conversion rate was 36%. Pentravel Cresta had the highest conversion rate at 70%. This shows that getting more enquiries does not always mean better conversion results
 
 ### Conclusion
 I would like to share how I cleaned and prepared the enquiry dataset using Excel. First, I reviewed the dataset to understand the structure and columns. I removed duplicate records to ensure each enquiry was unique. I then checked for missing or blank values and corrected them where necessary. The Package ID column was left blank because it was not applicable, or no data was provided for that field. I also standardized text fields to ensure consistency (for example, correcting different spellings and formats), and verified that dates and numeric columns were properly formatted. After completing the cleaning process, I created a Pivot Table to summarize the data and analyze key trends, which helped generate clear insights from the dataset.
