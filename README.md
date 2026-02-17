@@ -64,6 +64,7 @@ decrease of 4,597 sessions, which is about (11%).
 Although fewer people visited the website in week 2, the users stayed active and engaged. The traffic drop came mainly from Organic Search and paid Search, while email campaigns performed well.
 
 ## Task 2 – Website Highlights
+![](https://i.postimg.cc/HshtkmJ4/jan.jpg)
 •	From 5-11 Jan to 12-18 Jan, the total page views dropped from 167,521 to 150,125.
 
 •	Active users decreased from 32,138 to 28,214.
