@@ -35,7 +35,7 @@ Mauritius and Zanzibar received the highest number of enquiries, indicating stro
 Power BI | Microsoft Excel | Data Cleaning & Transformation | DAX (for calculated measures)
 
 ## Task 1 – Website Traffic Analysis
-![](https://i.postimg.cc/RFBdxTWj/traffic.jpg)
+![](https://i.postimg.cc/G2XygPGs/traffic.jpg)
 •	From 5-11 Jan to 12-18 Jan, the total sessions dropped from 40,791 to 36,194 a 
 decrease of 4,597 sessions, which is about (11%).
 
@@ -64,7 +64,7 @@ decrease of 4,597 sessions, which is about (11%).
 Although fewer people visited the website in week 2, the users stayed active and engaged. The traffic drop came mainly from Organic Search and paid Search, while email campaigns performed well.
 
 ## Task 2 – Website Highlights
-![](https://i.postimg.cc/HshtkmJ4/jan.jpg)
+![](https://i.postimg.cc/T3Q53qNZ/jan.jpg)
 •	From 5-11 Jan to 12-18 Jan, the total page views dropped from 167,521 to 150,125.
 
 •	Active users decreased from 32,138 to 28,214.
